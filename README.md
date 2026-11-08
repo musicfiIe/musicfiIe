@@ -4,7 +4,7 @@
 
 <sub>Hello my name is</sub> Friday.
 
-**C+H** is okay. W2I encouraged.
+**C+H** <ins>24/7</ins>!, even if not in my name! W2I recommended.
 
 <sub>**He**/Him, INTJ. Links for more</sub> info.
 
