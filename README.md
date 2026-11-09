@@ -1,6 +1,5 @@
 <div align=center>
-<img align="left" width="500" src="https://file.garden/aoZX68bH5m5bEQ7X/musictrio">
-
+<img src=https://files.catbox.moe/grar9a.png>
 
 <sub>Hello my name is</sub> Friday.
 
