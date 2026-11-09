@@ -1,5 +1,5 @@
 <div align=center>
-<img src=https://files.catbox.moe/grar9a.png>
+<img src=https://files.catbox.moe/grar9a.png width=400px>
 
 <sub>Hello my name is</sub> Friday.
 
